@@ -4,7 +4,7 @@
 
 [Τεχνική Αναφορά](###)
 
-<p style="text-align: center;">![Graph Image](https://jeremykun.files.wordpress.com/2011/07/paris-graph-colored.png)</p>
+![Graph Image](https://jeremykun.files.wordpress.com/2011/07/paris-graph-colored.png)
 
 
 ## Εκτέλεση του προγράμματος
