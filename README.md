@@ -1,3 +1,5 @@
+
+
 ## Link Example
 
-[CodeTime](google.com)
+[CodeTime](https://www.google.com/)
