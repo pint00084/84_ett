@@ -2,7 +2,7 @@
 
 Στη συγκεκριμένη έρευνα θα εξετάσουμε επίλυση 13 προβλημάτων χρονοπρογραμματισμού με χρήση αλγορίθμων χρωματισμού γράφων.
 
-[Τεχνική Αναφορά](https://github.com/pint00084/84_ett/blob/main/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC_%CE%9C%CF%80%CE%BF%CF%85%CF%81%CE%B1%CE%B6%CE%AC%CE%BD%CE%B7%CF%82%20%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_84.docx)
+[Τεχνική Αναφορά](https://github.com/pint00084/84_ett/blob/main/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC/%CE%A4%CE%B5%CF%87%CE%BD%CE%B9%CE%BA%CE%AE%20%CE%91%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CE%AC_%CE%9C%CF%80%CE%BF%CF%85%CF%81%CE%B1%CE%B6%CE%AC%CE%BD%CE%B7%CF%82%20%CE%93%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82_84.pdf)
 
 ![Graph Image](https://jeremykun.files.wordpress.com/2011/07/paris-graph-colored.png)
 
