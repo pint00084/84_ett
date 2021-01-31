@@ -17,11 +17,11 @@
 
 Μόλις ο χρήστης καταφέρει να εκτελέσει με επιτυχία το πρόγραμμα θα εμφανιστεί ένα γραφικό περιβάλλον με κουμπιά όπου εκεί θα επιλέξετε πως να προχωρήσετε. Το menu έχει διαμορφωθεί ως εξής:
 
-[1] Load Data
-[2] Check Solution
-[3] Solve Problem 
-[4] Solve All
-[5] Exit
+[1] Load Data<br>
+[2] Check Solution<br>
+[3] Solve Problem<br>
+[4] Solve All<br>
+[5] Exit<br>
 
 
 ## Menu Πλοήγησης Αλγόριθμου
